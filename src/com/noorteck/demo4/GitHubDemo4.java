@@ -6,4 +6,8 @@ public class GitHubDemo4 {
 		System.out.println("GIT HUB Demo4");
 	}
 
+	
+	public void add(int a, int b ) {
+		System.out.println(" addition ");
+	}
 }
